@@ -1,0 +1,38 @@
+Esc	Matricula	BcoDestino	TipoCta	NumCta	Beneficiario	TipoID	NumID	Mail	Alias	Alias2	Mail2	Descripcion
+0	S	Bolivariano	AHORRO	0921172720	CARLA LOOR	C	0	jpererov@bolivariano.com	Aho CARLA LOOR	Aho CARLA LOOR Activa	jperero@bolivariano.com	aho activa
+0	N	Bolivariano	CORRIENTE	0925022121	CARLA LOOR	C	0	jpererov@bolivariano.com	Cte CARLA LOOR	Cte CARLA LOOR Activa	jperero@bolivariano.com	corr activa
+0	N	Bolivariano	AHORRO	0002615694	NOMBRE: 78838	C	0	jpererov@bolivariano.com	Aho clip2now	Aho clip2now Activa	jperero@bolivariano.com	aho activa
+0	N	Bolivariano	CORRIENTE	0035001890	NOMBRE: 78838	C	0	jpererov@bolivariano.com	Cte clip2now	Cte clip2now Activa	jperero@bolivariano.com	aho activa
+0	N	Bolivariano	AHORRO	0001733385	NOMBRE: 243103	C	0	jpererov@bolivariano.com	Dep Aho NOMBRE243103	Dep Aho NOMBRE243103 	jperero@bolivariano.com	aho contra deposito
+0	N	Bolivariano	CORRIENTE	0065044339	NOMBRE: 241647	C	0	jpererov@bolivariano.com	OK Cte NOMBRE241647	OK Cte NOMBRE241647	jperero@bolivariano.com	corr activa
+0	N	Bolivariano	CORRIENTE	0005008311	NOMBRE: 73078	C	0	jpererov@bolivariano.com	Ret Cte NOMBRE73078	Ret Cte NOMBRE73078	jperero@bolivariano.com	corr contra retiro
+0	N	Bolivariano	AHORRO	0001363705	NOMBRE: 172665	C	0	jpererov@bolivariano.com	Aho cta1ahob depret	Aho cta1ahob depret	jperero@bolivariano.com	aho contra deposito y retiro
+0	N	Bolivariano	CORRIENTE	0005086816	NOMBRE: 172665	C	0	jpererov@bolivariano.com	Cte cta1ahob depret	Cte cta1ahob depret	jperero@bolivariano.com	corr contra deposito y retiro
+0	N	Bolivariano	AHORRO	0031317183	NOMBRE: 807644	C	0	jpererov@bolivariano.com	Aho albvilla Aho albvilla	jperero@bolivariano.com	aho contra deposito y retiro
+0	N	Bolivariano	CORRIENTE	0035051138	NOMBRE: 807644	C	0	jpererov@bolivariano.com	Cte albvilla Cte albvilla	jperero@bolivariano.com	corr contra deposito y retiro
+1	N	Guayaquil	AHORRO	0001644463	Gustavo Jimenez	P	CC94524560	jpererov@bolivariano.com	Aho PD Gustavo P	Aho PD Gustavo P activa	jperero@bolivariano.com	aho activa
+1	S	Pacifico	CORRIENTE	099931842	Carla Andrea Salvatierra Arellano	C	0919348227	jpererov@bolivariano.com	Cte PD Andrea	Cte PD Andrea Activa	jperero@bolivariano.com	corr activa
+1	N	Guayaquil	AHORRO	0001644462	Gustavo Jimenez	R	0909713901001	jpererov@bolivariano.com	Aho PD Gustavo	Aho PD Gustavo Activa	jperero@bolivariano.com	aho activa
+1	N	Guayaquil	CORRIENTE	0030402120	Diana Faubla	R	0923274146001	jpererov@bolivariano.com	Cte PD Diana	Cte PD Diana Activa	jperero@bolivariano.com	corr activa
+1	N	Loja	AHORRO	2101006941	Omar Hermosa	C	1100406899	jpererov@bolivariano.com	Aho PD Omar	Aho PD Omar Activa	jperero@bolivariano.com	aho activa
+1	N	Pacifico	CORRIENTE	099931843	Carla Andrea Salvatierra Arellano	P	F3532382	jpererov@bolivariano.com	Cte PD Andrea	Cte PD Andrea Activa	jperero@bolivariano.com	corr activa
+1	N	Guayaquil	CORRIENTE	099931843	Carla Andrea Salvatierra Arellano	P	F3532382	jpererov@bolivariano.com	Cte PD Andrea	Cte PD Andrea Activa	jperero@bolivariano.com	corr activa
+1	N	Guayaquil	CORRIENTE	28924704	Veronica Montenegro	C	0401571732	jpererov@bolivariano.com	BRed CC GYE Vero	BRed CC GYE Vero Activa	jperero@bolivariano.com	corr activa
+1	S	Austro	AHORRO	0700154505	Edison Lazo	C	0105333694	jpererov@bolivariano.com	BRed CA AUS Edison	BRed CA AUS Edison Activa	jperero@bolivariano.com	aho activa
+1	N	Austro	AHORRO	3000501521	Daniel Pelaez 	C	0104997044	jpererov@bolivariano.com	BRed CA AUS Daniel	BRed CA AUS Daniel Activa	jperero@bolivariano.com	aho activa
+1	N	Austro	AHORRO	3000065896	Fabian Dumaguala	C	0106761349	jpererov@bolivariano.com	BRed CA AUS Fabian	BRed CA AUS Fabian Activa	jperero@bolivariano.com	aho activa
+1	N	Austro	AHORRO	0200416163	Ines Yambai 	C	0105917538	jpererov@bolivariano.com	BRed CA AUS Yambai	BRed CA AUS Yambai Activa	jperero@bolivariano.com	aho activa
+1	N	Austro	AHORRO	1200524000	Jorge Guaman 	C	0102702305	jpererov@bolivariano.com	BRed CA AUS Guaman	BRed CA AUS Guaman Activa	jperero@bolivariano.com	aho activa
+1	N	Austro	AHORRO	0717622324	Silvia Pico 	C	1704847555	jpererov@bolivariano.com	BRed CA AUS Silvia	BRed CA AUS Silvia Activa	jperero@bolivariano.com	aho activa
+1	N	Austro	CORRIENTE	0617010313	Maria Vallejo 	C	1711462596	jpererov@bolivariano.com	BRed CC AUS Maria	BRed CC AUS Maria Activa	jperero@bolivariano.com	corr activa
+1	N	Austro	CORRIENTE	0600098802	Ligia Maldonado	C	0103690889	jpererov@bolivariano.com	BRed CC AUS Ligia	BRed CC AUS Ligia Activa	jperero@bolivariano.com	corr activa
+1	N	Internacional	AHORRO	700862279	Oscar Campana	C	1721007936	jpererov@bolivariano.com	BRed CA INT Oscar	BRed CA INT Oscar Activa	jperero@bolivariano.com	aho activa
+1	N	Internacional	AHORRO	14885	Francisco Otero	C	1700175118	jpererov@bolivariano.com	BRed CA INT Otero	BRed CA INT Otero Activa	jperero@bolivariano.com	aho activa
+1	N	Progresista*	AHORRO	406014829403	Ronquillo William	C	0104142088	jpererov@bolivariano.com	BRed CA JEP Ronquillo	BRed CA JEP Ronquillo Activa	jperero@bolivariano.com	aho activa
+1	S	Progresista	AHORRO	406014829403	Gonzalo Pablo	C	0301823290	jpererov@bolivariano.com	BRed CA JEP Gonzalo	BRed CA JEP Gonzalo Activa	jperero@bolivariano.com	aho activa
+1	N	Guayaquil	AHORRO	2200000006	Cesar Aulestia	C	0916774110	jpererov@bolivariano.com	BRed CA Gye Cesar	BRed CA JEP Cesar	jperero@bolivariano.com	aho activa
+1	N	Austro	AHORRO	2200000003	Michelle Mejia	C	0951412832	jpererov@bolivariano.com	BRed CA AUS Michelle	BRed CA AUS Michelle Activa	jperero@bolivariano.com	aho activa
+1	N	Guayaquil	CORRIENTE	2100000004	Michelle Mejia	C	0951412832	jpererov@bolivariano.com	BRed CA Gye Mejia	BRed CA JEP Mejia Activa	jperero@bolivariano.com	aho activa
+1	N	Austro	CORRIENTE	2100000015	Cesar Aulestia	R	0916774110001	jpererov@bolivariano.com	BRed CC AUS Cesar	BRed CC AUS Cesar	jperero@bolivariano.com	corr activa
+1	N	Internacional	AHORRO	2200000008	Michelle Mejia	R	0951412832001	jpererov@bolivariano.com	BRed CA INT Mejia	BRed CA INT Mejia Activa	jperero@bolivariano.com	aho activa
+1	N	Internacional	CORRIENTE	2100000005	Cesar Aulestia	C	0916774110	jpererov@bolivariano.com	BRed CC INT Cesar	BRed CC INT Cesar	jperero@bolivariano.com	corr activa

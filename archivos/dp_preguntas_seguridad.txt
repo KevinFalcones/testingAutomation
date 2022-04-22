@@ -1,0 +1,6 @@
+pregunta	respuesta
+es tu animal favorito	animal
+es tu deporte favorito	deporte
+Nombre de su lugar favorito	lugar
+Una fecha a recordar	fecha
+apodo de tu abuelo	apodo

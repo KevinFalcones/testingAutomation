@@ -1,0 +1,2 @@
+sec	TipoId	Identi	Alias	Monto Empresa	Tipo	Pago
+3	Identificación	092155	Carll	30	NETLIFE	T	S

@@ -1,0 +1,3 @@
+sec	Origen	Destino Monto	Concepto	NumTrans	Destino	Monto	Concepto
+1	0005018237	0005307351	7.23	auto test	1
+1	0005018237	0005307351	7.23	auto test	3	0000145703	8.1	multiple1	0951152856	6.7	multiple2	0000145703	1.1	multiple3	0000145703	9.9	multiple4

@@ -1,0 +1,6 @@
+Esc	Plan	login	tc	monto	concepto	plazo
+0	S	carla.loor1	8023	55.50	Remodelación	12
+0	S	carla.loor1	4016	75.96	Estudios	6
+0	N	carla.loor1	8023	60.52	Remodelación	12
+0	S	carla.loor1	4016	80	Otras cositas	12
+0	S	pvelaz20	4034	80	Otras cositas	12

@@ -1,0 +1,2 @@
+sec	Origen	Destino Monto   Medio	Concepto	NumTrans	Destino Monto   Medio	Concepto
+1	000XXXX237	003XXXX877	7	spi	auto test1	3	003XXXX877	10	br	auto test2	000XXXX717	5	-	auto test3

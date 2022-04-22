@@ -1,0 +1,2 @@
+sec	Empresa	Identi	Alias	Monto
+1	Cnel G-R	96774	GR2	9.86

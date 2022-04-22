@@ -1,0 +1,10 @@
+sec	Identi	TipoIden	Número	Alias	TipoPago	Empresa	Monto	Tipo	Pago
+1	21766202	Predio	2	Predial_1	Municipio Distrito Metrop. Quito	Municipios	19099.00	T	N
+1	16878891	Predio	2	Predial_2	Municipio Distrito Metrop. Quito	Municipios	1261.00	T	N
+1	102399	Predio	2	Predial_3	Municipio Distrito Metrop. Quito	Municipios	1703.00	T	N
+1	15470771	Otro	2	Otros_1	Municipio Distrito Metrop. Quito	Municipios	371.40	T	N
+1	15470826	Otro	2	Otros_2	Municipio Distrito Metrop. Quito	Municipios	240.40	T	N
+1	61003455315	Otro	2	Otros_3	Municipio Distrito Metrop. Quito	Municipios	6985.21	T	N
+1	411598	Patente	2	Patente_1	Municipio Distrito Metrop. Quito	Municipios	70.33	T	S
+1	13248095	Patente	2	Patente_2	Municipio Distrito Metrop. Quito	Municipios	70.33	T	N
+1	00024517680	Patente	2	Patente_3	Municipio Distrito Metrop. Quito	Municipios	70.33	T	N

@@ -1,0 +1,29 @@
+sec	Login	Password	Identificacion	nuevoLogin
+1	CAlrodrigm2	Cc*987456	0921939450	CAlrodrigm2
+2	00.chang5	Nn.12345	1708060395	00.chang5
+3	TD_asd123	Mm.12345	0103359048	TD_asd123
+4	dbravo20	Bb12345+	1709462756	dbravo20
+5	janeth.avila1	Ab.12345	1303710188	janeth.avila1
+6	carlim.84	Ab.1234**	0908889900	carlim.84
+7	alberto.villa1	Aa1234567+	0904930914	alberto.villa1
+8	cjortiz7	Aa.12345	0913676706	cjortiz7
+9	angel.navia3	Ac1234567+	0911095008	angel.navia3
+10	clip2.now	Ae1234567+	0904251378	clip2.now
+11	cli1.aho	Ac1234567+	0800071938	cli1.aho
+12	cta1.cteb	Ab1234567+	0906684089	cta1.cteb
+13	cta1.ahob	Ab1234567+	0908973605	cta1.ahob
+14	cquito_07	Bc12345+	0926903857	cquito_07
+15	jfalconj_7	123Ebanking	0930033196	jfalconj_7
+16	pvelaz20	Bb12345+	0912017274	pvelaz20
+17	Cli3.corr	Ac1234567+	0800264749	Cli3.corr
+18	jose.rivera1	Banking+2021	0914900907	jose.rivera1
+19	euros_21	Aa.12345	0904134434	amarillo
+20	pteranr20	Ame.12345	0916283500	amarillo
+21	rverav20	Aa123456+	0915370506	amarillo
+22	cli2.adic	Ac1234567+	0911613941	amarillo
+23	Daniel_costa4	BB__2022pre	azul
+24	ksalva_20	BB__2035p
+25	ctavirtual_01	Aa.12345
+26	mvtvelez_05	Aa.123456	1302881147	amarillo
+27	cborja20	Bb_12345	0906390562	amarillo
+28	11.Vargase	Qq.12345	0910521889	amarillo

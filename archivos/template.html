@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>
+        Reporte de ejecución de Script de Automatización
+    </title>
+    <style type="text/css">
+        table {
+          border-collapse: separate;
+          border-spacing: 0;
+        }
+
+        th,
+        td {
+          padding: 10px 15px;
+        }
+
+        td:first-child {
+          border-left: 1px solid #cecfd5;
+        }
+
+        .test-results-header {
+            color: #395870;
+        }
+
+        .test-result-table {
+            border: 1px solid black;
+            width: 900px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            letter-spacing: 0px;
+            word-spacing: 0px;
+            color: #000000;
+            font-weight: normal;
+            text-decoration: none;
+            font-style: normal;
+            font-variant: normal;
+            text-transform: none;
+        }
+
+        .test-result-table-header-cell {
+            border-bottom: 1px solid black;
+            background: #395870;
+            color: #fff;
+        }
+
+        .test-result-step-command-cell {
+
+            border-bottom: 1px solid gray;
+        }
+
+        .test-result-step-description-cell {
+
+            border-bottom: 1px solid gray;
+        }
+
+        .test-result-step-result-cell-ok {
+
+            border-bottom: 1px solid gray;
+            background: #0B6121;
+            color: #fff;
+        }
+
+        .test-result-step-result-cell-failure {
+
+            border-bottom: 1px solid gray;
+            background: #DF0101;
+        }
+
+        .test-result-step-result-cell-notperformed {
+
+            border-bottom: 1px solid gray;
+            background-color: white;
+        }
+
+        .test-result-describe-cell {
+            background-color: tan;
+            font-style: italic;
+        }
+
+        .test-cast-status-box-ok {
+            border: 1px solid black;
+            float: left;
+            margin-right: 10px;
+            width: 45px;
+            height: 25px;
+            background-color: green;
+        }
+	.dropdown {
+		position: relative;
+		display: inline-block;
+	}
+
+	.dropdown-content {
+		display: none;
+		position: absolute;
+		background-color: #f9f9f9;
+		min-width: 160px;
+		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		z-index: 1;
+	}
+
+	.dropdown:hover .dropdown-content {
+		display: block;
+	}
+
+	.copyright {
+	  background-color: rgba(0, 0, 0, 0.05);
+	  font-family: Arial, Helvetica, sans-serif;
+	  color:#737373;
+      text-align:left;
+      padding-top:8px;
+      font-size:12px;
+      margin-bottom:0;
+    }
+    </style>
+</head>
+<body>
+<h1 class="test-results-header">
+    $Titulo
+</h1>
+<h2>
+    $Fecha
+</h2>
+<h3>
+    $Entorno
+</h3>
+
+<table class="test-result-table" cellspacing="0" style="">
+    <thead>
+    <tr>
+        <td class="test-result-table-header-cell">
+            CASO DE PRUEBA
+        </td>
+        <td class="test-result-table-header-cell">
+            DETALLE
+        </td>
+        <td class="test-result-table-header-cell">
+            CATEGORIA
+        </td>
+        <td class="test-result-table-header-cell">
+            RESULTADO
+        </td>
+        <td class="test-result-table-header-cell">
+            ANEXO
+        </td>
+    </tr>
+    </thead>
+    <tbody>
+    $Pasos
+    </tbody>
+</table>
+<footer>
+    <p><br><br><br>
+    <p class="copyright"> &copy; 2022 Copyright: Gestión y automatización de pruebas<br>
+</footer>
+</body>
+</html>

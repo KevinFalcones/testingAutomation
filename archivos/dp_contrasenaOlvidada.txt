@@ -1,0 +1,2 @@
+sec	User	ID	NewPassword
+1	prueba.credimax1	0900935511	Aa12345-

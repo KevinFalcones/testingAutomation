@@ -1,0 +1,3 @@
+sec	Banco			TCuenta		NroCuenta	Beneficiario	TIdentificacion	NIdentificacion	Alias
+1	BANCO PICHINCHA		AHORRO		11111111111111	T1		Cédula		0916283500	T1
+2	BANCO DE GUAYAQUIL	CORRIENTE	11111111111112	T2		Cédula		0916283500	T2

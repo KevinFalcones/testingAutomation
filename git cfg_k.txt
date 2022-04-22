@@ -1,0 +1,79 @@
+jfalconj@TST220009 MINGW64 /e/GIT/Test24Online (kevin)
+$ git config --system --list
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+credential.helper=manager
+
+
+jfalconj@TST220009 MINGW64 /e/GIT/Test24Online (kevin)
+$ git config --global --list
+difftool.sourcetree.cmd='' "$LOCAL" "$REMOTE"
+mergetool.sourcetree.cmd=''
+mergetool.sourcetree.trustexitcode=true
+core.autocrlf=true
+user.name=jfalconj
+user.email=jfalconj@bolivariano.com
+
+
+jfalconj@TST220009 MINGW64 /e/GIT/Test24Online (kevin)
+$ git config --local --list
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+remote.origin.url=https://jfalcones@bitbucket.org/jperero/test24online.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+branch.feature/pagoDirecto_Ordenante.remote=origin
+branch.feature/pagoDirecto_Ordenante.merge=refs/heads/feature/pagoDirecto_Ordenante
+branch.feature/runCambioClave.remote=origin
+branch.feature/runCambioClave.merge=refs/heads/feature/runCambioClave
+branch.feature/CYBERBANK-3697-SolicitudChequera.remote=origin
+branch.feature/CYBERBANK-3697-SolicitudChequera.merge=refs/heads/feature/CYBERBANK-3697-SolicitudChequera
+branch.feature/CYBERBANK-4205-automatización-cambio-claveTD.remote=origin
+branch.feature/CYBERBANK-4205-automatización-cambio-claveTD.merge=refs/heads/feature/CYBERBANK-4205-automatización-cambio-claveTD
+branch.kevin.remote=origin
+branch.kevin.merge=refs/heads/kevin
+
+
+jfalconj@TST220009 MINGW64 /e/GIT/Test24Online (kevin)
+$ git config --list
+core.symlinks=true
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+credential.helper=manager
+difftool.sourcetree.cmd='' "$LOCAL" "$REMOTE"
+mergetool.sourcetree.cmd=''
+mergetool.sourcetree.trustexitcode=true
+core.autocrlf=true
+user.name=jfalconj
+user.email=jfalconj@bolivariano.com
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+remote.origin.url=https://jfalcones@bitbucket.org/jperero/test24online.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+branch.feature/pagoDirecto_Ordenante.remote=origin
+branch.feature/pagoDirecto_Ordenante.merge=refs/heads/feature/pagoDirecto_Ordenante
+branch.feature/runCambioClave.remote=origin
+branch.feature/runCambioClave.merge=refs/heads/feature/runCambioClave
+branch.feature/CYBERBANK-3697-SolicitudChequera.remote=origin
+branch.feature/CYBERBANK-3697-SolicitudChequera.merge=refs/heads/feature/CYBERBANK-3697-SolicitudChequera
+branch.feature/CYBERBANK-4205-automatización-cambio-claveTD.remote=origin
+branch.feature/CYBERBANK-4205-automatización-cambio-claveTD.merge=refs/heads/feature/CYBERBANK-4205-automatización-cambio-claveTD
+branch.kevin.remote=origin
+branch.kevin.merge=refs/heads/kevin

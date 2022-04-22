@@ -1,0 +1,2 @@
+sec	TC	Cupo1	Cupo2	Cupo3	Cupo4	Cupo5	Cupo6	Switch1	Switch2	Switch3	Switch4	Switch5	Switch6	
+1	4989	150	-	350	-	550	-	y	n	y	n	y	n

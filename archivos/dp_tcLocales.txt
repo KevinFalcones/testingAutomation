@@ -1,0 +1,19 @@
+Esc	Matricula	banco	tipo	numtc	tipoid	identificacion	titular	alias	favorito	mail	alias2	mail2	descripcion
+0	S	Bolivariano	Mastercard	5536343003448012	C	1002023263		AM8012 KLEVER TERAN	0	jperero@bolivariano.com	AM8012 KLEVER T	jpererov@bolivariano.com	activa
+0	N	Guayaquil	American Express	376659026131002	C	1707527485	JAZMIN PERERO	PIOK002 	0	jpererov@bolivariano.com	PIOK002 AM	jperero@bolivariano.com	activa
+0	N	Bolivariano	Visa	4222823015935017	C	1002023263		AV5017 KLEVER	1	jpererov@bolivariano.com	AV5017 KLEVER	jpererov@bolivariano.com	activa
+0	N	Pacifico	Mastercard	5424002300317750	C	0501613202	JAZMIN PERERO	PIOK750	1	jpererov@bolivariano.com	PIOK750 PAC	jpererov@bolivariano.com	activa
+0	N	Bolivariano	Union Pay	6262893000009017	C	0911979482		AU0017 NATIVIDAD CARPIO	0	jpererov@bolivariano.com	AU0017 NATIVIDAD	jpererov@bolivariano.com	activa
+0	N	Bolivariano	Mastercard	5536343000008017	C	0900280785		AM021 ANTONIETA	0	jpererov@bolivariano.com	AM021 ANTONIETA	jpererov@bolivariano.com	activa
+0	N	Diners	Diners	6559510000000430	P	P00000000000008	JAZMIN PERERO	PIOK008	0	jpererov@bolivariano.com	PIOK008	jperero@bolivariano.com	activa
+0	N	Bolivariano	Visa	4988922000867013	R	1790899780001		AV7013 COMERCIO QUITO	0	jpererov@bolivariano.com	AV7013 COMERCIO	jperero@bolivariano.com	activa
+1	N	Bolivariano	Visa	4938493473570014	C	0914881511		AV0014 FRANCISCO PERALTA	0	jpererov@bolivariano.com	AV0014 FRANCISCO	jperero@bolivariano.com	inactiva
+1	N	Bolivariano	Visa	4813513001940015	C	1712713476		AV0015 EDGAR GUERRERO	1	jpererov@bolivariano.com	AV0015 EDGAR GUERRERO	jperero@bolivariano.com	inactiva
+1	N	Austro	Visa	5482440211232008	C	1103034888	Carlos Escudero	BRed TC AUS Carlos	0	jpererov@bolivariano.com	BRed TC AUS Carlos Activa	jperero@bolivariano.com	activa
+1	N	Internacional	Visa	4394733086776012	C	1716960818	Silvia Garcia	BRed TC INT Otero	0	jpererov@bolivariano.com	BRed TC INT Otero Activa	jperero@bolivariano.com	activa
+0	S	Austro	Mastercard	5482440211232008	C	1103034888	Carlos Escudero	BRed TC AUS Carlos	0	jpererov@bolivariano.com	BRed TC AUS Carlos Activa	jperero@bolivariano.com	activa
+0	S	Progresista	Visa	4770453000044910	C	0104142088	ILLO QUITU	BRed TC JEP William	0	jpererov@bolivariano.com	BRed TC JEP William Activa	jperero@bolivariano.com	activa
+0	S	Progresista	Visa	4770453000003470	C	0301823290	ALO EGA	BRed TC JEP PA	0	jpererov@bolivariano.com	BRed TC JEP PA Activa	jperero@bolivariano.com	activa
+0	S	Guayaquil	Mastercard	5468430261310005	C	0401571732	JAZMIN PERERO	BRed TC BG JAZMIN	0	jpererov@bolivariano.com	BRed TC BG JAZMIN	jperero@bolivariano.com	activa
+0	S	Guayaquil	Visa	4110760261310002	C	0401571732	JAZMIN PERERO	BRed TC BG JAZMIN	0	jpererov@bolivariano.com	BRed TC BG JAZMIN	jperero@bolivariano.com	activa
+0	S	Internacional	Visa	4394710211232008	C	1103034888	JAZMIN PERERO	BRed TC INT JAZMIN	0	jpererov@bolivariano.com	BRed TC INT JAZMIN	jperero@bolivariano.com	activa

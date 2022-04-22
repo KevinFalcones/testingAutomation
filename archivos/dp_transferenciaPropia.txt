@@ -1,0 +1,4 @@
+sec	Origen	Destino Monto	Concepto
+1	0005018237	0005307351	7	auto testtt
+1	0005018237	0005307351	7	auto test	1
+2	0005018237	0005307351	7	auto test	2	0005307351	3.2	multiple1

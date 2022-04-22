@@ -1,0 +1,19 @@
+Esc	Paga	login	tc	cta_origen	monto	Via	concepto	Enviomail	mail	Frecuencia	FechaFin	DiasFin	Ejecuciones
+0	N	angel.navia3	4112	0005173208	10.52	bb	Test de pago de tc propia exitoso	S	jpererov@bolivariano.com			0	0
+0	N	angel.navia3	5113	0005173208	25.96	bb	Test de pago de tc propia exitoso	S	jpererov@bolivariano.com			0	0
+0	N	angel.navia3	5022	0065030859	10.25	bb	Test de pago de tc propia exitoso	S	jpererov@bolivariano.com			0	0
+0	N	clip2.now	3048	0035001890	1.25	bb	pago tc maste de AHO	N				0	0
+0	N	clip2.now	3048	0002615694	2.25	bb	pago tc maste de CTE	N				0	0
+1	N	clip2.now	9017	0035001890	5.85	bb	pago tc union de AHO	S	jpererov@bolivariano.com			0	0
+1	N	clip2.now	9017	0002615694	5.85	bb	pago tc union de CTE	S	jpererov@bolivariano.com			0	0
+2	N	clip2.now	1002	0035001890	9.25	Otros Bancos	pago tc guaya de AHO	S	jpererov@bolivariano.com			0	0
+2	N	clip2.now	1002	0002615694	5.85	Otros Bancos	pago tc guaya de CTE	N				0	0
+2	N	clip2.now	7750	0035001890	5.85	Otros Bancos Pago Inmediato	pago tc pacif de AHO	S	jpererov@bolivariano.com			0	0
+2	N	clip2.now	7750	0002615694	5.85	Otros Bancos Pago Inmediato		pago tc pacif de CTE	S	jpererov@bolivariano.com			0	0
+2	N	clip2.now	7750	0035001890	5.85	Otros Bancos Pago Inmediato	pago tc pacif de AHO	S	jpererov@bolivariano.com			0	0
+2	S	cquito_07	008	0005307782	50.01	Otros Bancos Pago Inmediato KFA CC BB A MASTER AUS	S	jpererov@bolivariano.com			0	0
+2	S	cquito_07	470	0005307782	333.33	Otros Bancos Pago Inmediato KFA CC BB A VISA INT	S	jpererov@bolivariano.com			0	0
+2	N	cli1.aho	008	069	250.1	Otros Bancos Pago Inmediato KFA CA BB A MASTER AUS	S	jpererov@bolivariano.com			0	0
+2	N	cli1.aho	470	069	199.99	Otros Bancos Pago Inmediato KFA CA BB A VISA INT	S	jpererov@bolivariano.com			0	0
+3	N	clip2.now	1002	0035001890	9.25	Otros Bancos Pago	pago tc guaya de AHO	S	jpererov@bolivariano.com	Mensual	S	60	0
+3	N	clip2.now	7750	0002615694	5.85	Otros Bancos Pago	pago tc pacif de AHO	S	jpererov@bolivariano.com	Quincenal	N	0	3

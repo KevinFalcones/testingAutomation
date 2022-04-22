@@ -1,0 +1,19 @@
+Esc	Transfiere	login	Origen	Destino	Monto	Via	Concepto	Enviomail	mail	Frecuencia	FechaFin	DiasFin	Ejecuciones
+1	N	cquito_07	782	003	25.36	Otros Bancos Pago Inmediato	KFA CC BB A CA AUS	S	jpererov@bolivariano.com			0	0
+1	N	cquito_07	782	015	102.75	Otros Bancos Pago Inmediato	KFA CC BB A CC AUS	S	jpererov@bolivariano.com			0	0
+1	S	cquito_07	782	003	325.01	Otros Bancos Pago Inmediato	KFA CC BB A CA AUS	S	jpererov@bolivariano.com			0	0
+1	N	cquito_07	782	005	5.00	Otros Bancos Pago Inmediato	KFA CC BB A CC INT	S	jpererov@bolivariano.com			0	0
+1	N	cli1.aho	069	008	1005.25	Otros Bancos Pago Inmediato	KFA CA BB A CA INT	S	jpererov@bolivariano.com			0	0
+1	N	cli1.aho	069	005	135.99	Otros Bancos Pago Inmediato	KFA CA BB A CC INT	S	jpererov@bolivariano.com			0	0
+1	N	cli1.aho	069	008	99.99	Otros Bancos Pago Inmediato	KFA CA BB A CA INT	S	jpererov@bolivariano.com			0	0
+1	N	cli1.aho	069	015	1.00	Otros Bancos Pago Inmediato	KFA CA BB A CC AUS	S	jpererov@bolivariano.com			0	0
+1	S	clip2.now	890	403	5.5	Otros Bancos Pago Inmediato	de CTE a AHO guaya	S	jpererov@bolivariano.com			0	0
+1	N	clip2.now	694	842	5.75	Otros Bancos Pago Inmediato	de AHO a CTE pacif	S	jpererov@bolivariano.com			0	0
+1	N	carla.loor1	121	462	0.5	Otros Bancos	de CTE a AHO guaya	S	jpererov@bolivariano.com			0	0
+1	N	angel.navia3	235	842	0.95	Otros Bancos	de AHO a CTE pacif	S	jpererov@bolivariano.com			0	0
+2	N	carla.loor1	121	842	0.75	Otros Bancos	de CTE a CTE pacif	N	jpererov@bolivariano.com	Mensual	S	30	0
+2	N	carla.loor1	720	842	0.6	Otros Bancos	de AHO a CTE pacif	N	jpererov@bolivariano.com	Por única vez	N	0	0
+3	N	cta1.ahob	816	842	5	Otros Bancos Pago Inmediato	de CTE dep y ret a CTE pacif	S	jpererov@bolivariano.com			0	0N
+3	N	cta1.ahob	705	842	5	Otros Bancos Pago Inmediato	de AHO dep y ret a CTE pacif	S	jpererov@bolivariano.com			0	0
+5	N	clip2.now	694	705	0.5	bb	de AHO a AHO dep y ret BB	N	jpererov@bolivariano.com			0	0
+5	N	clip2.now	694	816	0.5	bb	de AHO a CTE dep y ret BB	N	jpererov@bolivariano.com			0	0

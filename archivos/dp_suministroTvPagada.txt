@@ -1,0 +1,6 @@
+sec	TipoId	Identi	Alias	Monto Empresa	Tipo	Pago
+1	Ruc	0921939455001	JOSEFA	116.84	CLARO SERVICIOS FIJOS	T	N
+2	Contrato	45451	luisITO	0	Claro Tv Satélital	T	N
+2	Contrato	45458	luuu	38.45	Claro Tv Satélital	T	N
+3	Tarjeta inteligente	6464-6464-6467	Javier	2.85	DIRECTV PREPAGO	T	N
+4	Código de Servicio	32646	Raul2	5.85	Directv Postpago	T	S

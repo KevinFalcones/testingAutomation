@@ -1,0 +1,4 @@
+sec	Regional	TipoId	Identi	Alias	Empresa	Monto	Tipo	Pago
+2	04	x	232646465465464646	Telefono	Corporacion Nacional de Telecomunicaciones CNT EP	116.84	T	N
+2	04	x	2362670	Telefono	Corporacion Nacional de Telecomunicaciones CNT EP	5.82	T	S
+2	x	Ruc	0921939450001	Clar	CLARO SERVICIOS FIJOS	116.84	T	N
